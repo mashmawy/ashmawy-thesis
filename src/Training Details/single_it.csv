@@ -1,0 +1,16 @@
+Epoch: 1, Train loss: 1.638, Val loss: 0.000,Val Acc: 0.000, Epoch time = 120.431s
+Epoch: 2, Train loss: 1.123, Val loss: 0.000,Val Acc: 0.000, Epoch time = 115.511s
+Epoch: 3, Train loss: 0.978, Val loss: 0.000,Val Acc: 0.000, Epoch time = 120.367s
+Epoch: 4, Train loss: 0.887, Val loss: 0.000,Val Acc: 0.000, Epoch time = 119.293s
+Epoch: 5, Train loss: 0.820, Val loss: 0.000,Val Acc: 0.000, Epoch time = 111.904s
+Test loss: 0.867,Test Acc: 0.894
+accurecy:
+0.9321851453175457
+recall:
+0.5172413793103449
+precision:
+0.75
+f1:
+0.6122448979591838
+err:
+0.9309967141292442

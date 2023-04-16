@@ -1,0 +1,8 @@
+Epoch: 1, Train loss: 1.478, Val loss: 0.000,Val Acc: 0.000, Epoch time = 211.371s
+Epoch: 2, Train loss: 1.008, Val loss: 0.000,Val Acc: 0.000, Epoch time = 200.666s
+Epoch: 3, Train loss: 0.887, Val loss: 0.000,Val Acc: 0.000, Epoch time = 194.723s
+Epoch: 4, Train loss: 0.815, Val loss: 0.000,Val Acc: 0.000, Epoch time = 191.110s
+Epoch: 5, Train loss: 0.761, Val loss: 0.000,Val Acc: 0.000, Epoch time = 193.987s
+Test loss: 0.811,Test Acc: 0.897
+Total time :
+16.53095
